@@ -2,7 +2,7 @@
   "name": "examples-bayes",
   "version": "1.0.0",
   "description": "Ejemplos de redes bayesianas",
-  "main": "app.js",
+  "main": "run.js",
   "dependencies": {
     "bayes": "^0.0.6",
     "jsbayes": "0.0.5"
