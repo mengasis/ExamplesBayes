@@ -1,0 +1,28 @@
+{
+  "name": "examples-bayes",
+  "version": "1.0.0",
+  "description": "Ejemplos de redes bayesianas",
+  "main": "app.js",
+  "dependencies": {
+    "bayes": "^0.0.6",
+    "jsbayes": "0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mengasis/ExamplesBayes.git"
+  },
+  "keywords": [
+    "bayesian",
+    "bayes"
+  ],
+  "author": "Manuel Venegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengasis/ExamplesBayes/issues"
+  },
+  "homepage": "https://github.com/mengasis/ExamplesBayes#readme"
+}
